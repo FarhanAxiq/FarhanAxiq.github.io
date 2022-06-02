@@ -23,8 +23,8 @@ header {
     align-items: center;
     gap: 0.8rem;
     position: absolute;
-    left: -3rem;
-    bottom: 2rem;
+    left: 0;
+    bottom: 0em;
 }
 
 .header__social::after {
@@ -36,14 +36,10 @@ header {
 
 .scroll__down {
     position: absolute;
-    right: -3.2rem;
+    right: -2.3rem;
     bottom: 0rem;
     font-weight: 300;
-    font-size: 3rem;
-}
-
-.banner_picture {
-    background-position: 'center';
+    font-size: 0.9rem;
 }
 
 
