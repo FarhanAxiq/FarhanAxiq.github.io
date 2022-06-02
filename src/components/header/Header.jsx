@@ -13,7 +13,7 @@ const Header = () => {
         <h5 className="text-light">Software's Developers</h5>
         <CTA />
         <HeaderSocial />
-        <a href="#contact" className='scroll__down'><AiFillCaretDown size='30px'/></a>
+        <a href="#contact" className='scroll__down'><AiFillCaretDown size='40px'/></a>
         </div>
     </header>
   )
