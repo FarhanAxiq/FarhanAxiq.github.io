@@ -11,10 +11,10 @@
 }
 
 :root {
-    --color-bg: #1f1f38;
-    --color-bg-variable: #2c2c6c;
-    --color-primary: #4db5ff;
-    --color-primary-variant: rgba(77, 181, 255, 0.4);
+    --color-bg: #A09833;
+    --color-bg-variable: #4C8B5E;
+    --color-primary: #2F4C0B;
+    --color-primary-variant: #3A2016;
     --color-white: #fff;
     --color-light: rgba(255, 255, 255, 0.6);
 
@@ -30,7 +30,7 @@ html{
 }
 
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Helvetica', 'Arial', sans-serif;
     background: var(--color-bg);
     color: var(--color-white);
     line-height: 1.7;
@@ -51,6 +51,7 @@ h1 {
 
 section{
     margin-top: 8rem;
+    height: 100vh;
 }
 
 section > h2, section > h5 {
@@ -95,7 +96,7 @@ a:hover {
 
  
  .bth:primary {
-    background: var(--color-primary);
+    background: var(--color-bg);
     color: var(--color-bg);
 }
 

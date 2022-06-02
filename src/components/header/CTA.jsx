@@ -7,8 +7,8 @@ const CTA = () => {
         <a href={resume} target="_blank"
         title="Resumé Page"
         rel="noopener noreferrer"
-        className="btn">Resume!</a>
-        <a href="#contact" className="btn btn-primary"> Contact</a>
+        className="btn">View Resume</a>
+        <a href="#contact" className="btn btn-primary"> Connect with Me</a>
     </div>
   )
 }

@@ -1,0 +1,9 @@
+contact {
+    background: var(--color-primary-variant);
+    padding: 3rem 0;
+    display:flex;
+    text-align: center;
+    font-size: 0.9rem;
+    gap: 3rem;
+    margin-top: 7rem;
+}
