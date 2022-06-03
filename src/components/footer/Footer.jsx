@@ -14,7 +14,7 @@ const Footer = () => {
       © {getCurrentYear()} Farhan Haziq
       <div className="footer__socials">
         <a href="https://www.linkedin.com/in/farhan-haziq/"><BsLinkedin size='30px'/></a>
-        <a href="https://www.linkedin.com/in/farhan-haziq/"><GoMarkGithub size='30px'/></a>
+        <a href="https://github.com/FarhanAxiq/"><GoMarkGithub size='30px'/></a>
       </div>
     </footer>
   )
